@@ -1,0 +1,9 @@
+GitHub upload instructions
+
+Upload this entire folder to your repository as docs/.
+GitHub renders docs/README.md with its relative images automatically.
+Link from the root README using: [English user guide](docs/README.md)
+For a root README instead, copy docs/README.md to the repository root and change image paths from images/ to docs/images/.
+
+The HTML guide is docs/index.html. Open it locally with the images folder beside it, or publish /docs using GitHub Pages.
+Screenshot files are actual browser previews using custom settings, not a live Designer connection.
